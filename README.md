@@ -20,5 +20,6 @@ Here after entering the city name and pressing enter we will get all these infor
 ### Technologies Used
 The languages used for creating this wwebsite are:
 ### HTML 
-### CSS 
+### CSS
+
 ### JavaScript 
