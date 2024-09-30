@@ -9,6 +9,8 @@
 
 ## Overview of the Project
 ### Project: Weather Forecast
+![Screenshot 2024-09-30 222210](https://github.com/user-attachments/assets/ce26b84e-5b99-4619-aabd-61835d93560c)
+
 
 ### Objective
 The objective of this project is to create a Weather Forecast app so that an individual can select a city for over 200,000 cities from all over the world!
